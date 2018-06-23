@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.codehub.components</groupId>
-    <artifactId>singer</artifactId>
+    <artifactId>user07</artifactId>
     <packaging>jar</packaging>
     <version>0.2.8-SNAPSHOT</version>
 
@@ -16,7 +16,7 @@
     <dependencies>
         <dependency>
           <groupId>junit</groupId>
-          <artifactId>user_07</artifactId>
+          <artifactId>junit</artifactId>
           <version>4.11</version>
           <scope>test</scope>
         </dependency>
