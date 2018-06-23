@@ -16,7 +16,7 @@
     <dependencies>
         <dependency>
           <groupId>junit</groupId>
-          <artifactId>junit</artifactId>
+          <artifactId>user_07</artifactId>
           <version>4.11</version>
           <scope>test</scope>
         </dependency>
